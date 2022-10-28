@@ -26,10 +26,10 @@ NOT allowed to work remotely from OCONUS (Outside the Continental US).
 You can find templates online for similar policies, therefore, you have the freedom in the format chosen, as long as it is well/clearly developed.  
 
 What to submit:
-  1 - Upload the document to your Github profile.  
-  2- Create a 10-15 minutes video explaining your policy and how it relates to the NIST 800-63 publication, then add the URL to your Github profile under the 
-  same project repo/Directory.
-  3- Submit the URL to your Github profile (the page should show the Policy as well as the URL to your youtube demo).
+    1 - Upload the document to your Github profile.  
+    2- Create a 10-15 minutes video explaining your policy and how it relates to the NIST 800-63 publication, then add the URL to your Github profile under the 
+    same project repo/Directory.
+    3- Submit the URL to your Github profile (the page should show the Policy as well as the URL to your youtube demo).
   
 Due Date:
 Oct 30, 2022 11:59 PM
